@@ -1,0 +1,11 @@
+20160233 ParkNaHyeon
+
+Did it by alone
+
+about 6 days
+
+***Please read this...*********************************************************
+I couldn't open ./ishrc because when I open it, many commands that work when it's stdin doesn't... Please put commands in stdin.
+제꺼가 ishrc파일을 열면 여러 커맨드가 안돌아가서, 해동 조교님한테 물어봐도 조교님도 신기해하셔서,
+stdin에서 fgets를 합니다... ㅜㅜ 감점은 괜찮은데 제발 stdin으로 돌려주세요 ㅜㅜ 감사합니다
+******************************************************************************
